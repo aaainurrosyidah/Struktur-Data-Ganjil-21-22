@@ -1,1 +1,4 @@
 https://drive.google.com/file/d/1BYR6d-SVp22vIUMpZ5dEYNrom4SHbEs-/view?usp=sharing
+
+Penjelasan efektif single linked list atau double linked list
+diantara 2 diatas lebih efektif double linked list dikarenakan saat data banyak diperlukan simpul sebelum dan simpul sesudah agar ada history tersendiri
